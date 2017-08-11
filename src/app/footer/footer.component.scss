@@ -1,0 +1,45 @@
+.footer {
+	background: none repeat scroll 0 0 #2E2E2E;
+	border-top: 5px solid #C52D2F;
+	height: 84px;
+	margin-top: 110px;
+}
+.footer_left {
+	padding: 10px;
+}
+.footer .text-left {
+	color: #FFFFFF;
+	font-size: 12px;
+	margin-top: 15px;
+}
+footer .container {
+		width: 100%;
+		max-width: 1170px;
+		padding: 0 30px;
+	}
+.font{
+	font-size: 18px;
+	color:white;
+}
+	.team .social_icons .fa-facebook:hover, .team .social_icons .fa-twitter:hover, .team .social_icons .fa-google-plus:hover {
+		-ms-transform: rotate(360deg);
+		-webkit-transform: rotate(360deg);
+		transform: rotate(360deg);
+		transition-duration: 2s;
+		transition-property: all;
+		transition-timing-function: ease;
+		opacity: 1;
+		transition: all 0.9s ease 0s;
+		-moz-transition: all 0.9s ease 0s;
+		-webkit-transition: all 0.9s ease 0s;
+		-o-transition: all 0.9s ease 0s;
+	}
+	.team .social_icons .fa-facebook {
+		background: #0182c4;
+	}
+	.team .social_icons .fa-twitter {
+		background: #20B8FF
+	}
+	.bg{
+		background: black;
+	}

@@ -1,0 +1,30 @@
+#latest-news h3 {
+	color: darkred;
+}
+.container{
+  margin-left: 0;
+}
+.col-xs-12.col-sm-4.col-md-3 {
+	padding: 0;
+}
+.text-center {text-align: left;}
+.divider-small-border {
+	height: 1px;
+	width: 50%;
+	margin-top: 0;
+	background: #e8054c;
+	background: linear-gradient(to right, #e8054c, #304487);
+	border-bottom: 0;
+}
+p{
+  font-size: 17px;
+}
+span{
+	padding-left:4em;
+}
+.cont{
+	 padding-left:1.7em;
+}
+.white{
+	background-color:white;
+}
